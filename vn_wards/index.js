@@ -11560,4 +11560,5 @@ const vnWards = {
   90817: "Xã Phúc Sơn",
   90818: "Xã Minh Quang",
   90837: "Phường Hưng Long",
+  99999: "Hồ chí minh"
 };
